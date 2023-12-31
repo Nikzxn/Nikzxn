@@ -4,7 +4,8 @@
 
 
 - 😊 **18 y.o.**
-- 😁 **Looking for a job**
+- 🤠 **CE student SPbPU**
+- 😁 **Working on nothing...**
 - 📫 How to reach me **nikita@neuro-tech.pro**
 - 👨‍💻 Some of my projects are available at **neuro-tech.pro**
 - ⚡ Fun fact **I like to make jokes**
@@ -15,7 +16,7 @@
 <p align="left">
 <a href="https://kaggle.com/Nikzxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="Nikzxn" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Techs:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
