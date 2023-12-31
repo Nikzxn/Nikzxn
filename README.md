@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A Back-End C++ && Python ML Developer</h3>
 
-<video width="560" height="315" style="max-width: 100%;min-width: auto;width: 100%;margin-bottom: 10px;" muted="" loop="" autoplay="" playsinline="true" preload="metadata">
-                            <source src="https://neuro-tech.pro/videos/detect2.mp4" type="video/mp4">
-                        </video>
+<img src="d.gif" style="width:50%">
+
 <h1 dir="auto">💫 About Me:</h1>
 
 - 😊 **18 y.o.**
