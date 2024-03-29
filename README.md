@@ -8,8 +8,6 @@
 - 😊 **18 y.o.**
 - 🤠 **CE student SPbPU**
 - 😁 **Working on nothing...**
-- 📫 How to reach me **nikita@neuro-tech.pro**
-- 👨‍💻 Some of my projects are available at **neuro-tech.pro**
 - ⚡ Fun fact **I like to make jokes**
 
 <div> <a href="https://github.com/Nikzxn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
