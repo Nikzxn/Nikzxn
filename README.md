@@ -2,7 +2,6 @@
 
 ```
 location: Санкт - Петербург
-telephone: +7 911 - 708 - 55 - 16
 email: nakolobanov@gmail.com
 ```
 # Образование
