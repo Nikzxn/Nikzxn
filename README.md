@@ -1,4 +1,4 @@
-# Никита Колобанов | DL researcher
+# Nikita Kolobanov | DL researcher
 # Contact information
 ```
 location: Санкт - Петербург
