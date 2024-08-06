@@ -1,4 +1,4 @@
-# Никита Колобанов | Deep learning researcher
+# Никита Колобанов | DL researcher
 
 ```
 location: Санкт - Петербург
@@ -14,7 +14,7 @@ email: nakolobanov@gmail.com
 **Языки программирования:** Python , C++.\
 **Библиотеки** : Keras, TensorFlow, Data Api, Sckit-Learn, Numpy, Pandas, Seaborn и др.\
 **Инструменты** : Git, Linux, Tensor Board, Premake\
-**Владение языками** : Русский язык (свободный), Английский язык (C1)\
+**Владение языками** : Русский язык (свободный), Английский язык (C1)
 
 # Достижения
 
