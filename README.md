@@ -4,7 +4,6 @@
 location: Санкт - Петербург
 email: nakolobanov@gmail.com
 telegram: @N1K_X
-
 ```
 # Образование
 
