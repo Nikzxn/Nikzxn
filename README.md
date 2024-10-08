@@ -22,4 +22,4 @@ telegram: @N1K_X
 
 🥇**1 место – Олимпиада «Мартовские киты»** от СПБПУ
 
-##[Резюме](https://drive.google.com/file/d/1pyCMdWcHW906zk1lNrXC00lU8HbQptQ2/view?usp=drivesdk)
+#[Резюме](https://drive.google.com/file/d/1pyCMdWcHW906zk1lNrXC00lU8HbQptQ2/view?usp=drivesdk)
