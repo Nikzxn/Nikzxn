@@ -5,7 +5,7 @@ location: Санкт - Петербург
 email: NAKolobanov@gmail.com
 telegram: @N1K_X
 ```
-📝[Мое резюме](https://drive.google.com/file/d/1pyCMdWcHW906zk1lNrXC00lU8HbQptQ2/view?usp=drivesdk)
+📝[Резюме](https://drive.google.com/file/d/1pyCMdWcHW906zk1lNrXC00lU8HbQptQ2/view?usp=drivesdk)
 # Образование
 
 **Санкт** - **Петербургский политехнический университет Петра Великого,**\
